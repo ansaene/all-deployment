@@ -1,0 +1,7 @@
+Flask==1.1.2
+requests==2.23.0
+tensorflow-cpu>=2.2.0
+h5py>=2.10.0
+Pillow==7.1.2
+pip>=23.3.2
+numpy>=1.18.4
